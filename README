@@ -1,0 +1,9 @@
+Just a simple little script which grabs your Twitter favorites and displays a random one to standard output.
+
+To run:
+
+python showmefavs.py [Twitter username]
+
+It doesn't do any sorts of authentication so if your account is private, you won't be able to use it yet.
+
+
