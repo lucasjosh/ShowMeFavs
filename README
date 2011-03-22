@@ -6,4 +6,4 @@ python showmefavs.py [Twitter username]
 
 It doesn't do any sorts of authentication so if your account is private, you won't be able to use it yet.
 
-
+Hopefully I can add some hooks for Growl or something similar to periodically pop these up.

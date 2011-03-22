@@ -35,4 +35,4 @@ favs =  json.load(io)
 num = random.randint(0,19)
 text = favs[num]['text']
 by = favs[num]['user']['screen_name']
-print '{0}\n\t\tfrom  {1}'.format(text, by)
+print '{0}\n\tfrom  {1}'.format(text, by)
